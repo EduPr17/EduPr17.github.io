@@ -28,6 +28,6 @@ body{
   text-align:center
 }
 #rm{
-  text-align:center;
     display:flex;
+  text-align:center;
 }
