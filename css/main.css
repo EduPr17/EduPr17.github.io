@@ -4,7 +4,7 @@ body{
 #list{
   display:flex;
     background-color:#ADFF2F;
-  font-family: 'Indie Flower', cursive;
+      font-family: 'Rozha One', serif;
 }
 #gallery{
   text-align:center
@@ -28,6 +28,6 @@ body{
   text-align:center
 }
 #rm{
-  text-align:center
+  text-align:center;
     display:flex
 }
