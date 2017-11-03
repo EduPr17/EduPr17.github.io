@@ -4,7 +4,7 @@ body{
 #list{
   display:flex;
     background-color:#ADFF2F;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Bitter', serif;
 }
 #gallery{
   text-align:center
@@ -14,12 +14,12 @@ body{
 }
 #info{
   color:#ADFF2F;
-   font-family: 'Raleway', sans-serif;
+   font-family: 'Bitter', serif;
 }
 #past{
   background-color:black;
   color:#ADFF2F;
-  font-family: 'Raleway', sans-serif;
+ font-family: 'Bitter', serif;
 }
 .hidden{
   visibility: hidden;
