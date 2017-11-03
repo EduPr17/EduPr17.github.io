@@ -4,7 +4,7 @@ body{
 #list{
   display:flex;
     background-color:#ADFF2F;
-  font-family: 'Rozha One', serif;
+  font-family: 'Raleway', sans-serif;
 }
 #gallery{
   text-align:center
@@ -14,12 +14,12 @@ body{
 }
 #info{
   color:#ADFF2F;
-    font-family: 'Rozha One', serif;
+   font-family: 'Raleway', sans-serif;
 }
 #past{
   background-color:black;
   color:#ADFF2F;
-  font-family: 'Rozha One', serif;;
+  font-family: 'Raleway', sans-serif;
 }
 .hidden{
   visibility: hidden;
