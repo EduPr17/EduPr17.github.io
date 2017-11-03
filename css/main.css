@@ -14,12 +14,12 @@ body{
 }
 #info{
   color:#ADFF2F;
-    font-family: 'Rozha One', serif;
+ font-family: 'Rozha One', serif;
 }
 #past{
   background-color:black;
   color:#ADFF2F;
-  font-family: 'Rozha One', serif;;
+ font-family: 'Rozha One', serif;;
 }
 .hidden{
   visibility: hidden;
@@ -28,6 +28,6 @@ body{
   text-align:center
 }
 #rm{
-  text-align:center
+  text-align:center;
     display:flex
 }
