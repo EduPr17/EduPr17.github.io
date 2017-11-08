@@ -2,12 +2,10 @@
 	<html lang="en">
 		<body>
 		{% include head.html %}
-		{% include header.html %}
   		<div class="container">
 		{% for post in site.posts limit:3 %}
 		<h2> {{ post.title }}</h2>
-	<p> {{ post.teams }} </p>
-		{{ post.music }}
+		{{ post.excerpt }}
 	{% endfor %}
 	{{ content }}
 	</body>
