@@ -1,5 +1,7 @@
 body{
-  background-color:black
+  background-color:black;
+   color:#ADFF2F;
+   font-family: 'Bitter', serif;
 }
 #list{
   display:flex;
