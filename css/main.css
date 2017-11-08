@@ -31,3 +31,7 @@ body{
   text-align:center;
     display:flex
 }
+.container{
+   color:#ADFF2F;
+   font-family: 'Bitter', serif;
+}
