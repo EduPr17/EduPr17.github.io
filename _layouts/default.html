@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 	<html lang="en">
-		<body>
 		{% include head.html %}
-  		<div class="container">
-		{% for post in site.posts limit:3 %}
-		<h2> {{ post.title }}</h2>
-		{{ post.excerpt }}
-	{% endfor %}
-	{{ content }}
-	</body>
+		<div class="container">
+			{{content}}
+			{% for post in site.posts limit:3 %}
+			<h2>{{post.title}}</h2>
+			<h3>{{post.date}}</h3>
+			<p>{{post.excerpt}}</p>
+			<h2>Click <a href="{{post.url}}">here</a> to read more! </h2>
+			{%endfor%}
+			</div>
 </html>
