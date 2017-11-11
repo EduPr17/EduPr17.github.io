@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 	<html lang="en">
 		{% include head.html %}
-		<div class="container">
+		<div class="content-wrapper">
 			{% for post in site.posts limit:3 %}
 			<h2>{{post.title}}</h2>
 			<h3>{{post.date}}</h3>
