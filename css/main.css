@@ -11,7 +11,7 @@ body{
 #slideshow{ 
   text-align:center
 }
-pic{
+#photos{
   text-align:center;
   display: flex;
 }
