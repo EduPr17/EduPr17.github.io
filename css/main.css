@@ -34,8 +34,7 @@ body{
   text-align:center
 }
 #pics{
-  text-align:center;
-    display:flex
+    display:flex;
 }
 .container{
    color:#ADFF2F;
