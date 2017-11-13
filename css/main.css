@@ -12,7 +12,7 @@ body{
   text-align:center
 }
 #photos{
-  text-align:center;
+  text-allign:center;
   display: flex;
 }
 #buttons{
@@ -33,8 +33,8 @@ body{
 #right{
   text-align:center
 }
-#pics{
-    display:flex;
+#gnr{
+  text-allign:center;
 }
 .container{
    color:#ADFF2F;
