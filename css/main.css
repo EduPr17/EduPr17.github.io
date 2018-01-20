@@ -1,7 +1,5 @@
 body{
-  background-color:black;
-   color:#ADFF2F;
-   font-family: 'Bitter', serif;
+  background-color:black
 }
 #list{
   display:flex;
@@ -10,10 +8,6 @@ body{
 }
 #slideshow{ 
   text-align:center
-}
-#photos{
-  text-allign:center;
-  display: flex;
 }
 #buttons{
   text-align:center;
@@ -33,10 +27,7 @@ body{
 #right{
   text-align:center
 }
-#gnr{
+#rm{
   text-align:center;
-}
-.container{
-   color:#ADFF2F;
-   font-family: 'Bitter', serif;
+    display:flex
 }
